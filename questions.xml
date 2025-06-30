@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="110">
+    <name>top</name>
+    <contextid>400</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>365</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>moodle.localtest.me+250630161958+2gm3e0</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="111">
+    <name>Default for Lesson 1 Quiz</name>
+    <contextid>400</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>365</contextinstanceid>
+    <info>The default category for questions shared in context 'Lesson 1 Quiz'.</info>
+    <infoformat>0</infoformat>
+    <stamp>moodle.localtest.me+250630161958+zFQTgA</stamp>
+    <parent>110</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+      <question_bank_entry id="5">
+        <questioncategoryid>111</questioncategoryid>
+        <idnumber>1</idnumber>
+        <ownerid>2</ownerid>
+        <question_version>
+          <question_versions id="6">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="21">
+                <parent>0</parent>
+                <name>Lesson 1 Question 1</name>
+                <questiontext>&lt;p&gt;What is 2 + 2&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>moodle.localtest.me+250630163457+MxwtRo</stamp>
+                <timecreated>1751301297</timecreated>
+                <timemodified>1751301297</timemodified>
+                <createdby>2</createdby>
+                <modifiedby>2</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="36">
+                      <answertext>&lt;p&gt;1&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="37">
+                      <answertext>&lt;p&gt;2&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="38">
+                      <answertext>&lt;p&gt;3&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="39">
+                      <answertext>&lt;p&gt;4&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="4">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>abc</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="6">
+        <questioncategoryid>111</questioncategoryid>
+        <idnumber>2</idnumber>
+        <ownerid>2</ownerid>
+        <question_version>
+          <question_versions id="7">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="22">
+                <parent>0</parent>
+                <name>Lesson 1 Question 2</name>
+                <questiontext>&lt;p&gt;Is 2 + 2 = 4 ?&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>1.0000000</penalty>
+                <qtype>truefalse</qtype>
+                <length>1</length>
+                <stamp>moodle.localtest.me+250630163719+6KX29P</stamp>
+                <timecreated>1751301439</timecreated>
+                <timemodified>1751301439</timemodified>
+                <createdby>2</createdby>
+                <modifiedby>2</modifiedby>
+                <plugin_qtype_truefalse_question>
+                  <answers>
+                    <answer id="40">
+                      <answertext>True</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="41">
+                      <answertext>False</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <truefalse id="12">
+                    <trueanswer>40</trueanswer>
+                    <falseanswer>41</falseanswer>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </truefalse>
+                </plugin_qtype_truefalse_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+    </question_bank_entries>
+  </question_category>
+</question_categories>

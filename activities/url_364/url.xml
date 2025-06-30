@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="85" moduleid="364" modulename="url" contextid="399">
+  <url id="85">
+    <name>Lesson 1 Video</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <externalurl>https://www.youtube.com/watch?v=DR-cfDsHCGA</externalurl>
+    <display>1</display>
+    <displayoptions>a:1:{s:10:"printintro";i:0;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1751300039</timemodified>
+  </url>
+</activity>
